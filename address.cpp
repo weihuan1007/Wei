@@ -6,6 +6,6 @@ ggg
     int x=25;
     cout<<"The address of x is: "<<&x<<endl;
     cout<<"The value of x is: "<<x<<endl;
-
+asdassd
     return 0;
 }
